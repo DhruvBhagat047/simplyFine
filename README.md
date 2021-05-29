@@ -32,8 +32,8 @@ Care Anatomy is the mental health care website that provides services for people
 https://simplyfine.co/
 
 # Magic.link Integration
-1. We used the magic.link APIs to make our passwordless login page because we promot anonymity and safety which Magic links succeed in providing.
+1. We used the magic.link APIs to make our passwordless login page because we promote anonymity and safety which Magic links succeed in providing.
 2. We also used the Magic+Stripe API to make an interface where the user can but our premium packs via stripe payment.
 
 # FYI
-We run the group chat using the local hosting. We cannot run the XAMPP application on the Nelify hosting server. So, we used ngrok to temporarily host the local host applications like care-rooms and login/sign-up page publicly.
+We run the group chat using the local hosting. We cannot run the XAMPP application on the Netlify hosting server. So, we used ngrok to temporarily host the local host applications like care-rooms and login/sign-up page publicly.
