@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://simplyfine.co/"><img src="https://github.com/DhruvBhagat047/simplyFine/assets/images/logo.png"></a>
+  <a href="https://simplyfine.co/"><img src="https://github.com/DhruvBhagat047/simplyFine/blob/main/assets/images/logo.png"></a>
 </p>
 
 # Introduction
